@@ -1,0 +1,11 @@
+/Users/thomasmurphy/TDD/CH1/Company.Math/bin/Debug/net8.0/Company.Math.deps.json
+/Users/thomasmurphy/TDD/CH1/Company.Math/bin/Debug/net8.0/Company.Math.dll
+/Users/thomasmurphy/TDD/CH1/Company.Math/bin/Debug/net8.0/Company.Math.pdb
+/Users/thomasmurphy/TDD/CH1/Company.Math/obj/Debug/net8.0/Company.Math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasmurphy/TDD/CH1/Company.Math/obj/Debug/net8.0/Company.Math.AssemblyInfoInputs.cache
+/Users/thomasmurphy/TDD/CH1/Company.Math/obj/Debug/net8.0/Company.Math.AssemblyInfo.cs
+/Users/thomasmurphy/TDD/CH1/Company.Math/obj/Debug/net8.0/Company.Math.csproj.CoreCompileInputs.cache
+/Users/thomasmurphy/TDD/CH1/Company.Math/obj/Debug/net8.0/Company.Math.dll
+/Users/thomasmurphy/TDD/CH1/Company.Math/obj/Debug/net8.0/refint/Company.Math.dll
+/Users/thomasmurphy/TDD/CH1/Company.Math/obj/Debug/net8.0/Company.Math.pdb
+/Users/thomasmurphy/TDD/CH1/Company.Math/obj/Debug/net8.0/ref/Company.Math.dll
